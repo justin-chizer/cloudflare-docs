@@ -14,6 +14,10 @@ Cloudflare’s account-level [Notifications Service](/fundamentals/notifications
 
 We strongly encourage all customers to migrate existing Health Monitor notifications to Cloudflare’s centralized Notifications Service to avoid lapses in alerts.
 
+## Prerequisites
+
+Administrator role is required to complete the guide.
+
 ## Migration guide
 
 You should use this guide to migrate over **all** your existing health monitor notifications.
